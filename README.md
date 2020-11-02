@@ -1,2 +1,2 @@
-# Canvas-Anti-Downloader
-Simple extension that adds an option on Canvas to preview download links.
+# Phosphorus-Chome-Extension
+Simple extension to include an option on Scratch pages to use the Phosphorus player.
